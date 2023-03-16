@@ -1,0 +1,23 @@
+{
+  "name": "webcrawler",
+  "version": "0.0.1",
+  "description": "build a crawler that follows links on the internet",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A2Asiimwe/webCrawler.git"
+  },
+  "author": "A2A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A2Asiimwe/webCrawler/issues"
+  },
+  "homepage": "https://github.com/A2Asiimwe/webCrawler#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
