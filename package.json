@@ -3,9 +3,8 @@
   "version": "0.0.1",
   "description": "build a crawler that follows links on the internet",
   "main": "index.js",
-
   "scripts": {
-    "start": "index.js",
+    "start": "nodemon server.js",
     "test": "jest"
   },
   "repository": {
@@ -20,5 +19,10 @@
   "homepage": "https://github.com/A2Asiimwe/webCrawler#readme",
   "devDependencies": {
     "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsdom": "^21.1.1",
+    "nodemon": "^2.0.21"
   }
 }

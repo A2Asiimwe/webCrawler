@@ -1,0 +1,26 @@
+p{
+    font-size: 60px;
+    color:purple;
+}
+ 
+/* Working with selectors
+    for example the body element selector
+*/
+
+body{
+    font-size: 22px;
+}
+/* Working with selectors
+    for example the CLASS selector
+*/
+.gray{
+    color: #000000
+}
+
+/* Working with selectors
+    for example the ID selector
+*/
+#header{
+    color:brown
+}
+
